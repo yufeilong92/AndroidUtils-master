@@ -269,4 +269,4 @@ Android技术交流群-剩者为王⑤群：590967484
 
 # Licenses
 [Apache-2.0](https://opensource.org/licenses/apache2.0.php)
-#https://github.com/WuXiaolong/AndroidUtils
+#原地址：https://github.com/WuXiaolong/AndroidUtils
